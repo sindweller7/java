@@ -6,4 +6,4 @@
 
 高级语言的运行机制
 
-
+![image](https://cloud.githubusercontent.com/assets/8417612/4167019/af7e7956-350f-11e4-8298-7d26daa20e2e.png)

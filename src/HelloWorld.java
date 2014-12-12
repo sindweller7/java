@@ -1,20 +1,9 @@
 /**
  * 
  */
-
-
-/**
- * @author Administrator
- *
- */
 public class HelloWorld {
-
-    /**
-     * @param args
-     */
+    //java程序的入口方法，程序将从这里开始执行
     public static void main(String[] args) {
-        // TODO Auto-generated method stub
-
+        System.out.println("Hello World!");
     }
-
 }

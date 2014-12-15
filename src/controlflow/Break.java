@@ -1,6 +1,6 @@
 package controlflow;
 
-public class BreakTest {
+public class Break {
     public static void main(String[] args) {
         System.out.println("--------------------一个简单的for循环,使用break结束--------------------");
         /*

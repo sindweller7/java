@@ -1,6 +1,6 @@
 package controlflow;
 
-public class IfTest {
+public class If {
 
     /*
      * java中提供了两种常见的分支结构：if语句和switch语句，其中if语句使用布尔表达式或者布尔值

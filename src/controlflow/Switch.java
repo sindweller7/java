@@ -1,6 +1,6 @@
 package controlflow;
 
-public class SwitchTest {
+public class Switch {
 
     public static void main(String[] args) {
         char score1 ='B';

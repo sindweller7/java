@@ -38,7 +38,7 @@ public class SwitchTest {
             System.out.println("成绩输入错误");
         }
         
-        System.out.println("--------------------expression为string类型-----------------------");
+        System.out.println("------------------expression为string类型--------------------");
         String season = "夏天";
         /*
          * Java7增强了switch语句的功能，允许switch语句的控制表达式是java.lang.String类型的变量或表达式--只能是

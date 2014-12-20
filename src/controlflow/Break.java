@@ -2,7 +2,7 @@ package controlflow;
 
 public class Break {
     public static void main(String[] args) {
-        System.out.println("--------------------一个简单的for循环,使用break结束--------------------");
+        System.out.println("------------------一个简单的for循环,使用break结束-------------------");
         /*
          * break用于完全结束一个循环，跳出循环体。
          * 不管是那种循环，一旦在循环体中遇到break，系统将完全结束该循环，开始执行循环之后的代码。
@@ -15,7 +15,7 @@ public class Break {
             }
         }
         
-        System.out.println("---------------------使用break结束外层循环---------------------------");
+        System.out.println("--------------------使用break结束外层循环-------------------------");
         //Java中的标签就是一个紧跟着英文冒号(:)的标示符。与其它语言不同的是，Java中的标签只有放在循环语句之前才有作用。
         outer: 
         for (int i = 0; i < 5; i++) {
@@ -32,5 +32,6 @@ public class Break {
             }
             
         }
+        System.out.println("注意：break后的标签必须是一个有效的标签，一般在其所在循环的外层循环定义");
     }
 }

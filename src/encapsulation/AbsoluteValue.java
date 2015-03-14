@@ -1,4 +1,4 @@
-package objectAndClass;
+package encapsulation;
 
 /*
  * 方法重载三大原则：

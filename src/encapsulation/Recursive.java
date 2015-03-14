@@ -1,4 +1,4 @@
-package objectAndClass;
+package encapsulation;
 
 /*
  * 一个方法体内调用它自身，被称为方法递归。方法递归包含了一种隐式的循环，他会重复执行某段代码，但这种重复执行无须循环控制。

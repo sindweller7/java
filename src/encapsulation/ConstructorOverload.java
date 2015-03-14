@@ -1,4 +1,4 @@
-package objectAndClass;
+package encapsulation;
 
 public class ConstructorOverload {
     public String name;

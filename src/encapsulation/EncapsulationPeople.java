@@ -1,4 +1,4 @@
-package objectAndClass;
+package encapsulation;
 
 class People {
     // 将Field使用private修饰，将这些Field隐藏起来

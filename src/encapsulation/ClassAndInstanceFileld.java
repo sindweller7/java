@@ -1,4 +1,4 @@
-package objectAndClass;
+package encapsulation;
 
 class Person {
     // 定义一个实例Field

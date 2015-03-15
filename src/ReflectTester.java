@@ -4,6 +4,8 @@ import java.lang.reflect.Method;
 import sun.applet.Main;
 
 public class ReflectTester {
+    
+    
     public static void main(String[] args){
         Class<?> clazz = Customer.class;
         Field[] fields = clazz.getDeclaredFields();
